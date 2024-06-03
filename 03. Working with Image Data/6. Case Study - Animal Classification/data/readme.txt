@@ -5,3 +5,6 @@ Dataset contains about 28K medium quality animal images belonging to 10 categori
 All the images have been collected from "google images" and have been checked by human. There is some erroneous data to simulate real conditions (eg. images taken by users of your app).
 
 The main directory is divided into folders, one for each category. Image count for each category varies from 2K to 5 K units.
+
+
+Dataset Link: https://www.kaggle.com/datasets/alessiocorrado99/animals10
